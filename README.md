@@ -10,10 +10,8 @@ Jump to the [Roadmap project](https://github.com/aleksandarbasara/jamgigs-roadma
 **Current status**
 
  - ~~Basic website functions~~
- - Submit gigs via Google Forms
- - Pricing
- - Profiles
- 
+ - ~~Submit gigs via Google Forms~~
+
 
 ## Feature request
 If you are missing a feature or if you have an idea for additional functionality, please help me to improve by submitting an issue to this GitHub repository.
